@@ -14,7 +14,7 @@ The 20 app records are stored in `public/data.json`. App icon files used by thos
 - Recharts
 - CSS
 - Browser localStorage
-- SPA route rewrites for Cloudflare Pages/Netlify and Vercel
+- SPA route rewrites for Cloudflare Pages/Netlify 
 
 ## Getting started
 
