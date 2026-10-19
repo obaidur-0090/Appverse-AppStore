@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "title": "Focus Fox",
+    "companyName": "Bright Mind Studio",
+    "image": "/app-images/focus-fox.webp",
+    "description": "Make room for deep work. Focus Fox helps you build distraction-free habits with gentle timers, daily goals, and a little encouragement whenever you need it.",
+    "size": 28,
+    "reviews": 14820,
+    "ratingAvg": 4.8,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 240 },
+      { "name": "2 star", "count": 380 },
+      { "name": "3 star", "count": 760 },
+      { "name": "4 star", "count": 3120 },
+      { "name": "5 star", "count": 10320 }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Grow Garden",
+    "companyName": "Little Green Apps",
+    "image": "/app-images/grow-garden.webp",
+    "description": "Turn small moments into greener days. Grow Garden makes plant care simple with friendly reminders, practical growing guides, and a place to track every new leaf.",
+    "size": 42,
+    "reviews": 9230,
+    "ratingAvg": 4.7,
+    "downloads": 890000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 290 },
+      { "name": "3 star", "count": 710 },
+      { "name": "4 star", "count": 2410 },
+      { "name": "5 star", "count": 5640 }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Task Flow",
+    "companyName": "Everyday Labs",
+    "image": "/app-images/task-flow.webp",
+    "description": "A clear, calm space for everything on your list. Organize projects, set priorities, and celebrate progress without letting your to-do list take over your day.",
+    "size": 35,
+    "reviews": 18560,
+    "ratingAvg": 4.6,
+    "downloads": 2400000,
+    "ratings": [
+      { "name": "1 star", "count": 510 },
+      { "name": "2 star", "count": 690 },
+      { "name": "3 star", "count": 1380 },
+      { "name": "4 star", "count": 4850 },
+      { "name": "5 star", "count": 11130 }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Fresh Bite",
+    "companyName": "Good Table Co.",
+    "image": "/app-images/fresh-bite.webp",
+    "description": "Find fresh inspiration for your next meal. Browse easy recipes, save your favorites, and build a practical shopping list around the ingredients you already love.",
+    "size": 51,
+    "reviews": 7640,
+    "ratingAvg": 4.5,
+    "downloads": 640000,
+    "ratings": [
+      { "name": "1 star", "count": 260 },
+      { "name": "2 star", "count": 440 },
+      { "name": "3 star", "count": 880 },
+      { "name": "4 star", "count": 1870 },
+      { "name": "5 star", "count": 4190 }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Calm Space",
+    "companyName": "Stillwell Digital",
+    "image": "/app-images/calm-space.webp",
+    "description": "Take a softer pause in a busy day. Calm Space brings together breathing exercises, short guided meditations, and sleep sounds for a routine that fits you.",
+    "size": 63,
+    "reviews": 21400,
+    "ratingAvg": 4.9,
+    "downloads": 3100000,
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 310 },
+      { "name": "3 star", "count": 740 },
+      { "name": "4 star", "count": 4960 },
+      { "name": "5 star", "count": 15180 }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Daily Planner",
+    "companyName": "Paperplane Studio",
+    "image": "/app-images/daily-planner.webp",
+    "description": "Plan your day with less stress and more intention. Keep appointments, routines, and notes together in a colorful planner designed to stay out of your way.",
+    "size": 47,
+    "reviews": 12680,
+    "ratingAvg": 4.6,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 310 },
+      { "name": "2 star", "count": 520 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 3420 },
+      { "name": "5 star", "count": 7330 }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Pocket Budget",
+    "companyName": "Northstar Finance",
+    "image": "/app-images/task-flow.webp",
+    "description": "Feel more confident about everyday spending. Pocket Budget gives you a simple picture of your expenses, helpful categories, and approachable monthly goals.",
+    "size": 31,
+    "reviews": 5890,
+    "ratingAvg": 4.4,
+    "downloads": 520000,
+    "ratings": [
+      { "name": "1 star", "count": 270 },
+      { "name": "2 star", "count": 410 },
+      { "name": "3 star", "count": 720 },
+      { "name": "4 star", "count": 1560 },
+      { "name": "5 star", "count": 2930 }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Word Voyage",
+    "companyName": "Curious Cloud",
+    "image": "/app-images/focus-fox.webp",
+    "description": "Make language practice part of your everyday routine with bite-sized lessons, useful phrases, and friendly challenges that keep your learning moving forward.",
+    "size": 56,
+    "reviews": 10820,
+    "ratingAvg": 4.7,
+    "downloads": 980000,
+    "ratings": [
+      { "name": "1 star", "count": 190 },
+      { "name": "2 star", "count": 330 },
+      { "name": "3 star", "count": 850 },
+      { "name": "4 star", "count": 2810 },
+      { "name": "5 star", "count": 6640 }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Pet Pal",
+    "companyName": "Happy Tails Tech",
+    "image": "/app-images/grow-garden.webp",
+    "description": "Keep your pet's routine in one happy place. Track meals, walks, appointments, and little milestones with reminders you can share with the whole family.",
+    "size": 38,
+    "reviews": 4320,
+    "ratingAvg": 4.5,
+    "downloads": 410000,
+    "ratings": [
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 230 },
+      { "name": "3 star", "count": 510 },
+      { "name": "4 star", "count": 1240 },
+      { "name": "5 star", "count": 2200 }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Sound Trails",
+    "companyName": "Wavelength Audio",
+    "image": "/app-images/calm-space.webp",
+    "description": "Set the scene for focus, rest, or a change of pace with an inviting collection of ambient soundscapes inspired by the outdoors and the world around us.",
+    "size": 72,
+    "reviews": 16750,
+    "ratingAvg": 4.8,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 230 },
+      { "name": "2 star", "count": 390 },
+      { "name": "3 star", "count": 980 },
+      { "name": "4 star", "count": 4220 },
+      { "name": "5 star", "count": 10930 }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Photo Bloom",
+    "companyName": "Goodlight Creative",
+    "image": "/app-images/fresh-bite.webp",
+    "description": "Give your photos a little extra warmth. Photo Bloom offers easy-to-use edits, thoughtful filters, and simple tools to help every favorite moment shine.",
+    "size": 84,
+    "reviews": 8420,
+    "ratingAvg": 4.3,
+    "downloads": 760000,
+    "ratings": [
+      { "name": "1 star", "count": 580 },
+      { "name": "2 star", "count": 650 },
+      { "name": "3 star", "count": 1120 },
+      { "name": "4 star", "count": 2210 },
+      { "name": "5 star", "count": 3860 }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Move More",
+    "companyName": "Open Road Wellness",
+    "image": "/app-images/daily-planner.webp",
+    "description": "Find movement that feels good and make it your own. Move More offers approachable activity plans, gentle progress tracking, and reminders to stretch and reset.",
+    "size": 49,
+    "reviews": 13610,
+    "ratingAvg": 4.7,
+    "downloads": 1800000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 370 },
+      { "name": "3 star", "count": 910 },
+      { "name": "4 star", "count": 3470 },
+      { "name": "5 star", "count": 8610 }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Study Nest",
+    "companyName": "Curious Cloud",
+    "image": "/app-images/focus-fox.webp",
+    "description": "Bring your notes, study sessions, and learning goals together. Study Nest helps you create a comfortable routine and keep track of what you have learned.",
+    "size": 44,
+    "reviews": 6950,
+    "ratingAvg": 4.6,
+    "downloads": 730000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 310 },
+      { "name": "3 star", "count": 740 },
+      { "name": "4 star", "count": 1860 },
+      { "name": "5 star", "count": 3860 }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Recipe Garden",
+    "companyName": "Good Table Co.",
+    "image": "/app-images/fresh-bite.webp",
+    "description": "Collect the recipes you love and find new inspiration for your table. Organize meals by season, save cooking notes, and make weekly planning feel easy.",
+    "size": 53,
+    "reviews": 8130,
+    "ratingAvg": 4.5,
+    "downloads": 680000,
+    "ratings": [
+      { "name": "1 star", "count": 260 },
+      { "name": "2 star", "count": 410 },
+      { "name": "3 star", "count": 850 },
+      { "name": "4 star", "count": 1970 },
+      { "name": "5 star", "count": 4640 }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Sleep Stories",
+    "companyName": "Stillwell Digital",
+    "image": "/app-images/calm-space.webp",
+    "description": "Ease into a restful evening with gentle stories and soft soundscapes. Pick a short listening session, settle in, and let the day wind down at your pace.",
+    "size": 68,
+    "reviews": 11240,
+    "ratingAvg": 4.8,
+    "downloads": 1300000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 270 },
+      { "name": "3 star", "count": 680 },
+      { "name": "4 star", "count": 2860 },
+      { "name": "5 star", "count": 7280 }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Tiny Steps",
+    "companyName": "Bright Mind Studio",
+    "image": "/app-images/grow-garden.webp",
+    "description": "Build good habits one small step at a time. Tiny Steps helps you set simple goals, notice your progress, and keep a routine that feels achievable.",
+    "size": 34,
+    "reviews": 5210,
+    "ratingAvg": 4.6,
+    "downloads": 590000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 240 },
+      { "name": "3 star", "count": 590 },
+      { "name": "4 star", "count": 1450 },
+      { "name": "5 star", "count": 2810 }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Color Studio",
+    "companyName": "Goodlight Creative",
+    "image": "/app-images/fresh-bite.webp",
+    "description": "Make a little time for creativity. Color Studio offers a relaxing collection of illustrations, palettes, and simple tools to help you enjoy making something new.",
+    "size": 77,
+    "reviews": 9270,
+    "ratingAvg": 4.4,
+    "downloads": 870000,
+    "ratings": [
+      { "name": "1 star", "count": 410 },
+      { "name": "2 star", "count": 560 },
+      { "name": "3 star", "count": 940 },
+      { "name": "4 star", "count": 2410 },
+      { "name": "5 star", "count": 4950 }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Money Map",
+    "companyName": "Northstar Finance",
+    "image": "/app-images/task-flow.webp",
+    "description": "Make your financial goals feel more approachable. Money Map helps you track spending, create a savings plan, and see small steps add up over time.",
+    "size": 39,
+    "reviews": 6480,
+    "ratingAvg": 4.5,
+    "downloads": 610000,
+    "ratings": [
+      { "name": "1 star", "count": 190 },
+      { "name": "2 star", "count": 330 },
+      { "name": "3 star", "count": 650 },
+      { "name": "4 star", "count": 1690 },
+      { "name": "5 star", "count": 3620 }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Trail Notes",
+    "companyName": "Open Road Wellness",
+    "image": "/app-images/daily-planner.webp",
+    "description": "Keep the details of your next outdoor adventure close at hand. Save favorite places, jot down trail notes, and make a list of what you want to explore next.",
+    "size": 46,
+    "reviews": 7340,
+    "ratingAvg": 4.7,
+    "downloads": 940000,
+    "ratings": [
+      { "name": "1 star", "count": 130 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 610 },
+      { "name": "4 star", "count": 1810 },
+      { "name": "5 star", "count": 4540 }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Little Library",
+    "companyName": "Paperplane Studio",
+    "image": "/app-images/focus-fox.webp",
+    "description": "Keep a cozy list of books you have read and the ones you cannot wait to start. Little Library makes it easy to track your reading and save recommendations.",
+    "size": 32,
+    "reviews": 4760,
+    "ratingAvg": 4.6,
+    "downloads": 460000,
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 210 },
+      { "name": "3 star", "count": 530 },
+      { "name": "4 star", "count": 1320 },
+      { "name": "5 star", "count": 2590 }
+    ]
+  }
+]
